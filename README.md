@@ -1,6 +1,6 @@
 # WhisperLink
 
-![WhisperLink Logo](https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/signup.png?raw=true)
+![WhisperLink Logo](https://raw.githubusercontent.com/umuthakandemir/WhisperLink/refs/heads/master/app/src/main/res/drawable/applogo.png)
 
 ## 📱 About
 
@@ -17,16 +17,29 @@
 
 ## 📸 Screenshots
 
+### SignUp Screen
+
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/signup.png?raw=true" alt="SignUp Screen" width="300"/>
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/signup2.png?raw=true" alt="SignUp Screen Screen" width="300"/>
+
+### SignIn Screen
+
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/login_screen.png?raw=true" alt="SignIn Screen" width="300"/>
+
+### Permission Ask
+
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/permissionask.png?raw=true" alt="Permission Screen" width="300"/>
+
 ### Home Screen
-![Home Screen](https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/nomessage.png?raw=true)
+
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/nomessage.png?raw=true" alt="Home Screen" width="300"/>
 
 ### Chat Screen
-![Chat Screen](![image](https://github.com/user-attachments/assets/b45925cb-844f-411a-a80b-b65a1f5e68fd)
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/mesajla%C5%9Fma%20ornek.png?raw=true" alt="Chat Screen" width="300"/>
 
-
-### Settings
-![My Contacts]([path/to/screenshot3.png](https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/ki%C5%9Filerim.png?raw=true))
-
+### Contacts
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/kisilistesibos.png?raw=true" alt="Contacts" width="300"/>
+<img src="https://github.com/umuthakandemir/WhisperLink/blob/master/proje%20fotolar%C4%B1/ki%C5%9Filerim.png?raw=true" alt="Contacts Screen" width="300"/>
 ## 🛠 Installation
 
 To run the WhisperLink application locally, follow these steps:
@@ -100,4 +113,4 @@ If you would like to contribute, please follow these steps:
 ## 📫 Contact
 
 - **Email:** example@example.com
-- **GitHub:** [username](https://github.com/username)
+- **GitHub:** [umuthakandemir](https://github.com/umuthakandemir)
