@@ -56,7 +56,7 @@ To run the WhisperLink application locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/username/whisperlink.git
+    git clone https://github.com/umuthakandemir/whisperlink.git
     ```
 2. **Navigate to the Project Folder:**
     ```bash
