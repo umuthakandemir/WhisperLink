@@ -1,0 +1,56 @@
+# Android Studio ile ilgili dosyalar
+.idea/
+.gradle/
+local.properties
+
+# Gradle build dosyaları
+/build/
+*/build/
+
+# Android log dosyaları
+*.log
+
+# Keystore dosyaları (güvenlik için)
+*.keystore
+
+# İkili dosyalar ve sonuç dosyaları
+*.class
+*.dex
+*.apk
+*.ap_
+*.jar
+*.war
+*.ear
+
+# Kendi oluşturduğun kişisel ayarlar veya dosyalar
+*.iml
+*.hprof
+
+# Çeşitli sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Profiling ve caching ile ilgili dosyalar
+*.stacktrace
+*.db
+*.db-journal
+*.tmp
+*.crt
+*.pem
+
+# Android NDK ile ilgili dosyalar
+obj/
+libs/
+
+# Captures klasörü (Profiling sonuçları)
+captures/
+
+# Artık dosyalar
+*.orig
+
+# 3rd-party kütüphaneler (yerel derleme dosyaları)
+.externalNativeBuild/
+
+# VS Code dosyaları (Eğer Visual Studio Code kullanıyorsan)
+.vscode/
+/app/google-services.json

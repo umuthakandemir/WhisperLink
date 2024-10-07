@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhisperLink</string>
+    <string name="noNetworkButton">Tekrar Dene</string>
+    <string name="settings">Ayarlar</string>
+    <string name="SignOut">Çıkış Yap</string>
+    <string name="Contacts">Kişilerim</string>
+    <string name="MyChats">Sohbetlerim</string>
+    <string name="Fail">Uups. Bir şeyler ters gitti...</string>
+    <string name="refresh">Yenile</string>
+    <string name="messageDelete">Messaj silindi</string>
+    <string name="enteremail">Lütfen bir mail adresi girin.</string>
+    <string name="BothPasswords">Her iki şifrede aynı olmalı</string>
+    <string name="permissionDenied">İzin rededildi</string>
+    <string name="permisionGranted">İzin verildi</string>
+    <string name="ContactsEmpty">Rehberinde numara kayıtlı değil</string>
+    <string name="noOneUsesTheApp">Ne yazık ki, kişilerinizden hiçbiri bu uygulamayı kullanmıyor. Onları davet et :)</string>
+    <string name="enterMessage">Lütfen bir mesaj girin.</string>
+    <string name="needPermission">İşlem için bu izin gereklidir. Lütfen izni verin.</string>
+    <string name="requestInformation">Lütfen istenilen bilgileri doğru girin.</string>
+    <string name="doubleClickSignout">Çıkmak için iki kez dokun</string>
+</resources>

@@ -1,0 +1,15 @@
+<!-- rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Arka plan rengi -->
+    <solid android:color="@color/dark"/>
+    <!-- Köşe yuvarlama ayarları -->
+    <corners android:radius="20dp" /> <!-- Tüm köşeler için 16dp radius -->
+
+    <!-- Opsiyonel: Kenarlık (stroke) ayarlamak istersen -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/black" /> <!-- 2dp genişlikte siyah bir kenarlık -->
+
+</shape>
