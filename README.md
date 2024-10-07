@@ -3,6 +3,8 @@
 ![WhisperLink Logo](https://raw.githubusercontent.com/umuthakandemir/WhisperLink/refs/heads/master/app/src/main/res/drawable/applogo.png)
 
 ## 📱 About
+> **Note:** This project is still under development. Features such as push notifications, message read status, and profile activity are not yet implemented.
+
 
 **WhisperLink** is a modern chat application that allows people to communicate easily. If one of your contacts is using this application, you can automatically send messages to them. It features a user-friendly interface similar to WhatsApp, providing fast and reliable communication.
 
@@ -112,5 +114,5 @@ If you would like to contribute, please follow these steps:
 
 ## 📫 Contact
 
-- **Email:** example@example.com
+- **Email:** demirhakann001@gmail.com
 - **GitHub:** [umuthakandemir](https://github.com/umuthakandemir)
