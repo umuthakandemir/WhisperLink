@@ -48,7 +48,6 @@ To run the WhisperLink application locally, follow these steps:
 
 ### Requirements
 
-- **Java JDK 11** or higher
 - **Android Studio** (Latest version)
 - **Android SDK**
 
